@@ -1,3 +1,2 @@
-[user]
-	name = Vadim Lipatov
-	email = vadegg0607@gmail.com
+[safe]
+	directory = /Users/vadimlipatov/.dotfiles/dotbot
