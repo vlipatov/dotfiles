@@ -23,3 +23,9 @@
     ~/.gitconfig: gitconfig
 
 
+- clean: ['~']
+
+- link:
+    ~/.gitconfig: gitconfig
+
+
