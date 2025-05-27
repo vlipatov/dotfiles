@@ -10,7 +10,7 @@ fi
 
 ZSH_DISABLE_COMPFIX=True
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/vadimlipatov/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -123,7 +123,7 @@ export NVM_DIR="$HOME/.nvm"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-eval "$(/Users/vadimlipatov/.local/bin/mise activate zsh)"
+eval "$($HOME/.local/bin/mise activate zsh)"
 
 # Enable pyenv
 export PYENV_ROOT="$HOME/.pyenv"
