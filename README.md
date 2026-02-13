@@ -10,7 +10,7 @@ Clean. Minimal. Reproducible.
 
 Run this on a fresh macOS machine:
 
-curl -fsSL https://raw.githubusercontent.com/vlipatov/dotfiles/master/bootstrap.sh | bash
+```curl -fsSL https://raw.githubusercontent.com/vlipatov/dotfiles/master/bootstrap.sh | bash```
 
 ---
 
